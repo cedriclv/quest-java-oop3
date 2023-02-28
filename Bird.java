@@ -1,6 +1,6 @@
 public abstract class Bird {
   
-    // attributes  
+    // attributes e 
     private String name;  
     private int age;
   
